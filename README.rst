@@ -89,3 +89,4 @@ Open Source
 
 .. _gqrx: https://github.com/csete/gqrx
 .. _audacity: https://github.com/audacity/audacity
+.. _GPLv3 Licence: https://github.com/ahresse/LICENSE
