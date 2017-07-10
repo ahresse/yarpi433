@@ -35,7 +35,7 @@ Dependencies
 Installation
 ------------
 
-On your Raspberry Pi, clone this depository.
+On your Raspberry Pi, clone this repository.
 
 Wiring diagram
 --------------
