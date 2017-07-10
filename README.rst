@@ -5,8 +5,14 @@ Introduction
 ------------
 
 Python script for sending 433MHz signals with generic low-cost GPIO RF modules on a Raspberry Pi.
+
 I first sniffed remote controler signal with `gqrx`_ with my rtl-sdr USB key (820T2) tuned around 433MHz.
+
 Once the acquisition were right, I retroengineered the protocol with `audacity`_ which happened to be a simple on-off keying modulated signal.
+
+.. figure:: img/audacity.png
+   :alt: audacity
+
 Lastly, I implemented this into a python script using my Raspberry Pi 1 GPIOs.
 
 Supported hardware
