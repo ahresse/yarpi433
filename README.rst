@@ -14,7 +14,7 @@ Supported hardware
 
 Most generic 433MHz capable modules connected via GPIO to a Raspberry Pi.
 
-.. figure:: http://www.instructables.com/file/FU4UJYAHM8DG3Q3/
+.. figure:: https://cdn.instructables.com/ORIG/FU4/UJYA/HM8DG3Q3/FU4UJYAHM8DG3Q3.jpg
    :alt: 433module
 
 Compatibility
